@@ -1,4 +1,4 @@
-# 4 Biomedical Image Denoising Using CBDNet and UNet
+# Biomedical Image Denoising Using CBDNet and UNet
 
 ​Image denoising works are mostly inclined towards general images and not biomedical images.
 
@@ -32,3 +32,7 @@ More the number of Epochs greater are the results.​
 PSNR and SSIM improved after denoising, thus retaining the originality of Image. 
 
 Thus, the image should be less corrupted by noise to get better results.
+
+# Note
+
+The code uploaded in this github is only for 3% of noise for single dataset.The entire work is not uploaded here.This work was done as part of my MTech Degree Dissertation Work Dated July 2022.
