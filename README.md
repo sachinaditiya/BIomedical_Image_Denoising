@@ -23,11 +23,11 @@ Step 5: Then comparing the results.
 
 # Outcome of the Work
 
-The key outcome is both algorithms works well for biomedical image denoising.​
+The key outcome is both algorithms works well for biomedical image denoising.
 
-Computation Time of UNET is less compared to CBDNET.​
+Computation Time of UNET is less compared to CBDNET.
 
-More the number of Epochs greater are the results.​
+More the number of Epochs greater are the results.
 
 PSNR and SSIM improved after denoising, thus retaining the originality of Image. 
 
@@ -35,4 +35,4 @@ Thus, the image should be less corrupted by noise to get better results.
 
 # Note
 
-The code uploaded in this github is only for 3% of noise for single dataset.The entire work is not uploaded here.This work was done as part of my MTech Degree Dissertation Work Dated July 2022.
+The code uploaded in this github is only for 3% of noise for single dataset.The entire work is not uploaded here.This work was done as part of my MTech Degree Dissertation work dated July 2022.
