@@ -1,4 +1,4 @@
-# BIomedical_Image_Denoising
+# BIomedical Image Denoising Using CBDNet and UNet
 
 ​Image denoising works are mostly inclined towards general images and not biomedical images.
 
