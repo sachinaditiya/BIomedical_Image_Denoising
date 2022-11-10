@@ -11,15 +11,15 @@
 
 # Workflow:
 
-Step 1: Downloading 2 Datasets
+Step 1: Downloading 2 Datasets.
 
 Step 2: Inducing Noise in Clean Images of varying intensities 3%,5% and 9% (Rcian Noise for 1st Dataset and Poisson Noise for 2nd Dataset) and resizing images to similar size.
 
-Step 3: Denoising Image using two algorithms CBDNet and UNet.
+Step 3: Denoising Images using two algorithms CBDNet and UNet.
 
-Step 4: Measuring the Image quality metrics like PSNR,SSIM etc .
+Step 4: Measuring the Image quality metrics like PSNR,SSIM etc.
 
-Step 5: Then comparing the results
+Step 5: Then comparing the results.
 
 # Outcome of the Work
 
