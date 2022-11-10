@@ -6,4 +6,4 @@
 
 ​Current algorithms being used for biomedical image denoising are computationally expensive.
 
-So in this work we have used UNet Algorithm and CBDNet Algorithm for two biomedical image datasets and compared it's denoising performance and computation time by using certain metrics
+​So in this work we have used UNet Algorithm and CBDNet Algorithm for two biomedical image datasets and compared it's denoising performance and computation time by using certain metrics
